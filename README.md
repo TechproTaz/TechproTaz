@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechproTaz
+- 👋 Hi, I’m Tofu (Old name Taz)
 - 👀 I’m interested in drawing, animationg, html, css, c programming etc
 - 🌱 I’m currently learning html,css and c programming
 - 💞️ I’m looking to collaborate on making website
